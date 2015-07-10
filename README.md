@@ -22,7 +22,7 @@ Attempting to convert the whole app wholesale is not feasible for most productio
 
 * [Component Router Interop Strategy](Component Router Interop Strategy)
 
-* [Automated Translation Tools](Automated Translation Tools)
+* [Automated Upgrade Tools](Automated Upgrade Tools)
 
 * [Guides and Best Practices](Guides and Best Practices)
 
